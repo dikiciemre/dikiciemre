@@ -29,6 +29,7 @@ I'm a Full-Stack Developer
 
 
 Programming Languages And Tools : 👨🏼‍💻
+<hr>
 <details>
 
 <summary>Programming Languages: </summary>
@@ -38,6 +39,7 @@ c++
 
 <br>
 
+<details>
 <summary>Tools: </summary>
 c
 c++
