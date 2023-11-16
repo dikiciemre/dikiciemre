@@ -53,7 +53,6 @@
 
 <img src="https://img.icons8.com/ios/48/000000/database.png" alt="SQL" width="40" height="40"/>
 
-<img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB" width="40" height="40"/>
 
 
 </details>
