@@ -20,9 +20,9 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dikicimustafaemre) 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]( www.linkedin.com/in/mustafa-emre-dikici)
 
+<hr>
 
-
- and you can keep in touch with me from dikicimustafaemre@gmail.com 
+You can also keep in touch with me from dikicimustafaemre@gmail.com 
 
 
 ### My tools : 🤔
