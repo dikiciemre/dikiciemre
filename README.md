@@ -7,7 +7,6 @@ I'm a Full-Stack Developer
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dikicimustafaemre) 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]( www.linkedin.com/in/mustafa-emre-dikici)
 
-[gmail]: mailto:dikicimustafaemre@gmail.com
 
 
 >[!NOTE]
@@ -45,6 +44,14 @@ c++
 c
 c++
 </details>
+
+<br>
+
+## ⏲ What ı am  doing now:
+<hr>
+I'm developing a project for Myself 🚀.
+I'm doing some exercises for ımprove my skills in my free time 📃.
+I also work as a FreeLancer 💻.
 
 <br>
 
