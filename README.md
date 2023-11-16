@@ -28,16 +28,23 @@ I'm a Full-Stack Developer
 <br>
 
 
-Programming Languages: 👨🏼‍💻
+Programming Languages And Tools : 👨🏼‍💻
 <details>
 
-<summary>Programming Languages: 👨🏼‍💻 </summary>
+<summary>Programming Languages: </summary>
+c
+c++
+</details>
+
+<br>
+
+<summary>Tools: </summary>
 c
 c++
 </details>
 
 
-### My tools : 🤔
+### My Stats : 🤔
 <hr>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&theme=gradient) 
