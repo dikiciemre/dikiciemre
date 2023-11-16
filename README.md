@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Emre Dikici </h1> 
 
-<p  align="center"> <b> I'm a Full-Stack Developer </b>  </p>
+<p  align="center"> <b> I'm a Developer </b>  </p>
 
 <br>
 
