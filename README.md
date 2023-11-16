@@ -32,6 +32,7 @@
 
 ### Programming Languages And Tools : 👨🏼‍💻
 <hr>
+<h4>Programming Languages: 🚨</h4>
 <p>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
 
@@ -56,8 +57,8 @@
 
 <br>
 
-<details>
-<summary>Tools: </summary>
+<h4> Tools: 🛠️ </h4>
+<p>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
 
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
@@ -69,11 +70,11 @@
 <img src="https://img.icons8.com/color/48/000000/ms-word.png" alt="Microsoft Word" width="40" height="40"/>
 
 <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Microsoft Excel" width="40" height="40"/>
+</p>
 
-
-</details>
 
 <br>
+
 
 ### What ı am  doing now: ⏲
 <hr>
