@@ -32,6 +32,7 @@ You can also keep in touch with me from dikicimustafaemre@gmail.com
 
 ### My tools : 🤔
 <hr>
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&theme=radical)
 
