@@ -32,7 +32,6 @@
 
 ### Programming Languages And Tools : 👨🏼‍💻
 <hr>
-<details>
 
 <summary>Programming Languages: </summary>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
@@ -55,7 +54,6 @@
 
 
 
-</details>
 
 <br>
 
