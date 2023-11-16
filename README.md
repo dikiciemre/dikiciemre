@@ -92,7 +92,6 @@ I also work as a FreeLancer 💻.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&theme=radical)
-![GitLab language count](https://img.shields.io/gitlab/languages/count/:project)
 
 
 
