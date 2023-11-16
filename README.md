@@ -32,7 +32,7 @@
 
 ### Programming Languages And Tools : 👨🏼‍💻
 <hr>
-
+<p>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
@@ -50,7 +50,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
 
 <img src="https://img.icons8.com/ios/48/000000/database.png" alt="SQL" width="40" height="40"/>
-
+</p>
 
 
 
