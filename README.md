@@ -1,7 +1,16 @@
 ### Hi 👋 I'm Emre Dikici 
 <hr>
-I'm a Full-Stack Developer 
+I'm a Full-Stack Developer  
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dikiciemre) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/dkcemrex?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dikicimustafaemre) 
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]( www.linkedin.com/in/mustafa-emre-dikici)
+
+
+
+>[!NOTE]
+>You can also keep in touch with me from dikicimustafaemre@gmail.com
 
 <!--
 **dikiciemre/dikiciemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,18 +27,6 @@ I'm a Full-Stack Developer
 <br>
 <br>
 
-### Connect with me : 🔭
-<hr>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/dikiciemre) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/dkcemrex?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dikicimustafaemre) 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]( www.linkedin.com/in/mustafa-emre-dikici)
-
->[!NOTE]
->You can also keep in touch with me from dikicimustafaemre@gmail.com 
-<br>
-<br>
 
 Programming Languages: 👨🏼‍💻
 <details>
