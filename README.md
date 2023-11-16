@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Emre Dikici 
 <hr>
-<p align="center"> I'm a Full-Stack Developer </p>
+<p align="center"> ***I'm a Full-Stack Developer*** </p>
 
 <br>
 
