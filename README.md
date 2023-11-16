@@ -28,7 +28,7 @@ I'm a Full-Stack Developer
 <br>
 
 
-Programming Languages And Tools : 👨🏼‍💻
+###Programming Languages And Tools : 👨🏼‍💻
 <hr>
 <details>
 
@@ -47,10 +47,10 @@ c++
 
 <br>
 
-## ⏲ What ı am  doing now:
+###What ı am  doing now: ⏲
 <hr>
-I'm developing a project for Myself 🚀.
-I'm doing some exercises for ımprove my skills in my free time 📃.
+I'm developing a project for Myself 🚀. <br>
+I'm doing some exercises for ımprove my skills in my free time 📃. <br>
 I also work as a FreeLancer 💻.
 
 <br>
