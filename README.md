@@ -2,6 +2,10 @@
 <hr>
 <p  align="center"> <b> I'm a Full-Stack Developer </b>  </p>
 
+<p align="center">
+  <span style="color:yellow;">I'm a Full-Stack Developer</span>
+</p>
+
 <br>
 
 ### Social Media Accounts : 💬
