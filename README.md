@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Emre Dikici </h1> 
-<hr>
+
 <p  align="center"> <b> I'm a Full-Stack Developer </b>  </p>
 
 <br>
