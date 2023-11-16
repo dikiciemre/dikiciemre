@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Emre Dikici 
 <hr>
-I'm an Full-Stack Developer
+*I'm a Full-Stack Developer*
 
 <!--
 **dikiciemre/dikiciemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
