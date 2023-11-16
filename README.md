@@ -43,14 +43,38 @@
 
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
 
+<img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+
+<img src="https://img.icons8.com/ios/48/000000/database.png" alt="SQL" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB" width="40" height="40"/>
+
+
 </details>
 
 <br>
 
 <details>
 <summary>Tools: </summary>
-c
-c++
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/xcode.png" alt="Xcode" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/ms-word.png" alt="Microsoft Word" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Microsoft Excel" width="40" height="40"/>
+
+
 </details>
 
 <br>
