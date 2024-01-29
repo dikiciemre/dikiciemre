@@ -54,8 +54,7 @@
 
 <img src="https://img.icons8.com/ios/48/000000/database.png" alt="SQL" width="40" height="40"/>
 
-<img src="[https://img.icons8.com/ios/48/000000/database.png](https://www.php.net/images/logos/php-logo.svg
-)" alt="SQL" width="40" height="40"/>
+<img src="![PHP Logo](https://www.php.net/images/logos/php-logo.svg)" alt="PHP" width="40" height="40"/>
 
 </p>
 
