@@ -90,14 +90,12 @@ I also work as a FreeLancer 💻.
 ### My Stats : 🤔
 <hr>
 
+# GitHub Statistics
 
-# GitHub İstatistikleri
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&count_private=true&hide=issues,contribs)
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&count_private=true&hide=issues,contribs)
+## Language Statistics
 
-## Dil İstatistikleri
-
-![Programlama Dili İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=dikiciemre&layout=compact)
-
+![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=dikiciemre&layout=compact)
 
 
