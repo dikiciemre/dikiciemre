@@ -96,15 +96,15 @@ I also work as a FreeLancer 💻.
 
 # GitHub İstatistikleri
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=KullaniciAdiniz&show_icons=true&count_private=true&hide=issues,contribs)
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&count_private=true&hide=issues,contribs)
 
 ## Dil İstatistikleri
 
-![Programlama Dili İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=KullaniciAdiniz&layout=compact)
+![Programlama Dili İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=dikiciemre&layout=compact)
 
 ## GitHub Aktiviteleri
 
-![GitHub Aktiviteleri](https://activity-graph.herokuapp.com/graph?username=KullaniciAdiniz&bg_color=ffffff&color=000000&line=0000FF&point=00FF00)
+![GitHub Aktiviteleri](https://activity-graph.herokuapp.com/graph?username=dikiciemre&bg_color=ffffff&color=000000&line=0000FF&point=00FF00)
 
 
 
