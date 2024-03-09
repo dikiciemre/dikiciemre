@@ -90,6 +90,7 @@ I also work as a FreeLancer 💻.
 
 ### My Stats : 🤔
 <hr>
+% data reusables.profile.access_profile %
 
 # GitHub Statistics
 
