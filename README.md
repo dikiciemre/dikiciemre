@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋 I'm Emre Dikici </h1> 
-<img align="center" src="https://github.com/dikiciemre/dikiciemre/assets/103147965/f649ae96-d612-4988-b5d4-d8348c3f50cb" alt="C" width="80" height="80"/> </b>
+<p align="center">
+  <img src="https://github.com/dikiciemre/dikiciemre/assets/103147965/f649ae96-d612-4988-b5d4-d8348c3f50cb" alt="C" width="80" height="80"/>
+</p>
+
 
 <p  align="center"> <b> I'm a Developer </b>  </p>
 
