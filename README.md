@@ -54,6 +54,9 @@
 
 <img src="https://img.icons8.com/ios/48/000000/database.png" alt="SQL" width="40" height="40"/>
 
+<img src="https://github.com/dikiciemre/dikiciemre/assets/103147965/be49b962-0a85-4672-a364-43d294ec1a38" alt="Flutter" width="40" height="40"/>
+
+
 </p>
 
 
