@@ -1,4 +1,4 @@
- <img src="https://camo.githubusercontent.com/1244a53aa9b7836f0a4f806ea33912bec043c74dbc409448f2beb5dfd4e30749/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b616469726e6172267374796c653d666c6174" alt="Profile Views" data-canonical-src="https://komarev.com/ghpvc/?username=dikiciemre&amp;style=flat" style="max-width: 100%; align: center"> 
+ <img src="https://camo.githubusercontent.com/1244a53aa9b7836f0a4f806ea33912bec043c74dbc409448f2beb5dfd4e30749/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b616469726e6172267374796c653d666c6174" alt="Profile Views" data-canonical-src="https://komarev.com/ghpvc/?username=dikiciemre&amp;style=flat" style="max-width: 100%; align: center;"> 
 
 <h1 align="center">Hi 👋 I'm Emre Dikici </h1> 
 <p align="center">
