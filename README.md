@@ -90,6 +90,9 @@ I also work as a Freelancer 💻.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&count_private=true&hide=issues,contribs)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikiciemre)
+
+
 ## Language Statistics
 
 ![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=dikiciemre&layout=compact)
