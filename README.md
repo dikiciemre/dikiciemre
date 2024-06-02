@@ -102,13 +102,5 @@ I also work as a Freelancer 💻.
 - Türkçe
 - Deutsch
 
-- # Merhaba, ben [İsminiz]!
 
-## GitHub İstatistiklerim
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikiciemre)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikiciemre&layout=compact)
 
