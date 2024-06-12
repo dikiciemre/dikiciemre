@@ -25,6 +25,10 @@
 >[!NOTE]
 >You can also keep in touch with me from dikicimustafaemre@gmail.com
 
+### About Me : 📖
+<hr>
+I am a passionate developer with a love for creating innovative solutions. I have experience in multiple programming languages and tools, and I am always looking for new challenges to improve my skills. In my free time, I enjoy working on personal projects and contributing to open-source communities. My goal is to become a proficient full-stack developer and to create impactful software that makes a difference.
+
 ### Programming Languages And Tools : 👨🏼‍💻
 <hr>
 <h4>Programming Languages: 🚨</h4>
@@ -58,6 +62,18 @@
 I'm developing a project for myself 🚀. <br>
 I'm doing some exercises to improve my skills in my free time 📃. <br>
 I also work as a Freelancer 💻.
+
+### Projects : 🚀
+<hr>
+- [Project 1](link): Brief description of project 1.
+- [Project 2](link): Brief description of project 2.
+- [Project 3](link): Brief description of project 3.
+
+### Certifications : 🎓
+<hr>
+- [Certification 1](link): Description of certification 1.
+- [Certification 2](link): Description of certification 2.
+- [Certification 3](link): Description of certification 3.
 
 ### My Stats : 🤔
 <hr>
