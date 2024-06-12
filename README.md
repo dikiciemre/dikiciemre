@@ -72,6 +72,12 @@ I also work as a Freelancer 💻.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikiciemre&layout=compact" alt="Language Statistics"/>
 </p>
 
+### GitHub Achievements
+<hr>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dikiciemre&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Achievements"/>
+</p>
+
 ### Languages / Diller / Sprachen
 - English
 - Türkçe
