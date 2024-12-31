@@ -69,12 +69,7 @@ Here are some of the exciting projects I've worked on:
 
 ---
 
-### 🎓 Certifications:
-- [Certification 1](#): Description of certification 1.
-- [Certification 2](#): Description of certification 2.
-- [Certification 3](#): Description of certification 3.
 
----
 
 ### 🔍 My Stats:
 
@@ -84,10 +79,7 @@ Here are some of the exciting projects I've worked on:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikiciemre" alt="GitHub Streak"/>
 </p>
 
-#### Contribution Graph:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dikiciemre&theme=github" alt="Contribution Graph"/>
-</p>
+
 
 #### Detailed Commit and PR Stats:
 <p align="center">
