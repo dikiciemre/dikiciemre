@@ -96,10 +96,7 @@ Here are some of the exciting projects I've worked on:
   <img src="https://github-readme-stats.vercel.app/api?username=dikiciemre&hide=issues&show_icons=true&hide_title=true&count_private=true" alt="Followers and Stars"/>
 </p>
 
-#### Fun Widget:
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Widget"/>
-</p>
+
 
 #### Achievements:
 <p align="center">
