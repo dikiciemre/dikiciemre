@@ -84,9 +84,29 @@ Here are some of the exciting projects I've worked on:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikiciemre" alt="GitHub Streak"/>
 </p>
 
-#### Language Statistics:
+#### Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikiciemre&layout=compact" alt="Language Stats"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=dikiciemre&theme=github" alt="Contribution Graph"/>
+</p>
+
+#### Detailed Commit and PR Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikiciemre&show_icons=true&include_all_commits=true&count_private=true" alt="Commits and PR Stats"/>
+</p>
+
+#### Weekly Activity:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dikiciemre" alt="Weekly Stats"/>
+</p>
+
+#### Followers and Star Counts:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikiciemre&hide=issues&show_icons=true&hide_title=true&count_private=true" alt="Followers and Stars"/>
+</p>
+
+#### Fun Widget:
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Widget"/>
 </p>
 
 #### Achievements:
